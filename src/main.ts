@@ -8,10 +8,18 @@ function createMainPage() {
         <img class="logo" src="${icon}" alt="Rally Logo"/>
       </div>
         <h1>Welcome to Rally!!</h1>
-        <div>
-          <p>A community project where everyone adds their own touch to the website</p>
-        </div>
-        
+      <div>
+        <p>A community project where everyone adds their own touch to the website</p>
+      </div>
+      <div class="credits">
+        <h4>Credits!</h4>
+        <br>
+        <p>KittyCat - Site logo <br>
+        Noololly - Site design and organiser<br>
+        Lenny - organiser<br>
+        Mattsoh - organiser<br>
+        </p>
+      </div>
       </div>
     `
 }
