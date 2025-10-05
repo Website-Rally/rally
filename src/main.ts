@@ -11,6 +11,9 @@ function createMainPage() {
       <div>
         <p>A community project where everyone adds their own touch to the website</p>
       </div>
+      <div class="button">
+        <button onclick="document.location='./links.html'">To the pages!!!</button>
+     </div>
       <div class="credits">
         <h4>Credits!</h4>
         <br>

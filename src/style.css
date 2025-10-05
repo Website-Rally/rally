@@ -1,5 +1,5 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Coolvetica, sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -48,10 +48,10 @@ h1 {
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em rgba(246, 148, 255, 0.67));
+  filter: drop-shadow(0 0 1em rgba(246, 148, 255, 0.67));
 }
 .logo.vanilla:hover {
-  filter: drop-shadow(0 0 2em rgba(246, 148, 255, 0.67));
+  filter: drop-shadow(0 0 1em rgba(246, 148, 255, 0.67));
 }
 
 .credits {
@@ -63,7 +63,7 @@ h1 {
     align-items: center;
     display: flex;
     flex-direction: column;
-    margin: 0 auto;
+    margin: 50px auto;
     width: 100%;
     box-sizing: border-box;
 }
@@ -71,6 +71,28 @@ h1 {
 .credits h4 {
   font-size: 20px;
   margin: 10px 0;
+}
+
+button {
+    background-color: #bac2de;
+    border: solid 5px #b4befe;
+    border-radius: 10px;
+    height: 4em;
+    width: 12em;
+    margin-top: 2em;
+
+    transition: filter 300ms;
+
+    font-weight: bold;
+    color: black;
+}
+
+button:hover {
+    filter: drop-shadow(0 0 2em rgba(246, 148, 255, 0.3));
+}
+
+button.vanilla:hover {
+    filter: drop-shadow(0 0 2em rgba(246, 148, 255, 0.3));
 }
 
 @font-face {
