@@ -15,7 +15,7 @@ When contributing, please try and follow the existing code style to maintain con
 Follow the Hack Club code of conduct, as we are organising this within the Hack Club slack.
 
 - Make a fork of the repository and clone the fork.
-- Make your edits!!!
+- Make your edits!!! Make sure to add a link to your page(s) in `links.html`
 - Commit and open a pull request back to the main repository
 - Let our reviewing team review your work
 - Once reviewed, it will be merged and your changes will be deployed to the internet!!
