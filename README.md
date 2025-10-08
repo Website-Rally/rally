@@ -4,7 +4,7 @@ This is a community driven website where everyone can add their own contribution
 
 We are using vanilla TS that is built with Vite!
 
-The website is hosted at (domain name here when it is purchased) using GitHub pages!
+The website is hosted at website-rally.dev by our friends over at Youthacks <3 
 
 # Contributing!!!
 

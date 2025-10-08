@@ -17,7 +17,8 @@ function createMainPage() {
       <div class="credits">
         <h4>Credits!</h4>
         <br>
-        <p>KittyCat - Site logo <br>
+        <p>Youthack - Infrastructure and Hosting<br>
+        KittyCat - Site logo <br>
         Noololly - Site design and organiser<br>
         Lenny - organiser<br>
         Mattsoh - organiser<br>
